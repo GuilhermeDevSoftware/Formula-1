@@ -23,7 +23,7 @@ Esse projeto é com o intuito de aprendizagem, qualquer sugestão é bem vinda.
 1. Clone o repositório:
 
     ```sh
-    git clone https:[//github.com/GuilhermeDevSoftware/Django-Introducao/tree/main](https://github.com/GuilhermeDevSoftware/Formula-1/tree/main)
+    git clone https:https://github.com/GuilhermeDevSoftware/Formula-1/tree/main
     ```
 
 2. Crie e ative um ambiente virtual:
